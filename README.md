@@ -1,7 +1,7 @@
 # MongoDB GenAI Developer Day Notebooks
 This repository is home to all the Jupyter Notebooks required for MongoDB's GenAI Developer Day. 
 
-The GenAI Developer Day consists of three self-paced labs:
+The self-paced versions of the Developer Days workshops are linked below:
 
 * Introduction to Vector Search (Coming soon!)
 
