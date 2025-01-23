@@ -8,3 +8,4 @@ langgraph-checkpoint-mongodb
 tiktoken
 sentence_transformers
 tqdm
+Pillow
