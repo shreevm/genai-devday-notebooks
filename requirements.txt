@@ -3,6 +3,7 @@ datasets
 langchain
 langchain-aws
 langchain-google-genai
+langchain-openai
 langgraph
 langgraph-checkpoint-mongodb
 tiktoken
